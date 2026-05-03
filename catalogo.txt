@@ -1,0 +1,5 @@
+1,camiseta,ropa,15.99
+2,auriculares,tecnologia,29.9
+3,lampara,hogar,18.5
+4,balon de futbol,deportes,22.0
+5,gel de ducha,aseo,4.75

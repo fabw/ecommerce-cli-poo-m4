@@ -1,0 +1,7 @@
+----- NUEVA COMPRA -----
+Cliente: Francisco
+Fecha y hora: 03/05/2026 21:38:49
+Producto: camiseta | Cantidad: 2 | Precio unitario: 15.99€ | Subtotal: 31.98€
+Total: 31.98€
+------------------------
+
